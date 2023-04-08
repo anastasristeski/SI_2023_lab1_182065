@@ -29,8 +29,8 @@ public class SILab1 {
         int n = sc.nextInt();
 
         List<Integer> list = new ArrayList<>();
-
-        for (int i = 0; i <= n; i++) {
+            //n odese 1 ciklus povekje
+        for (int i = 0; i <n; i++) {
             list.add(sc.nextInt());
         }
 

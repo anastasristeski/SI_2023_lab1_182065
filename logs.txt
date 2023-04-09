@@ -1,0 +1,46 @@
+anastasristeski@Anastass-MacBook-Air SI_2023_lab1_182065 % git log
+commit 7188a1e4c6bf12aa9279f579d81bcfa8a4b84ec5 (HEAD -> master, origin/master, bug3)
+Merge: e44088d 63448db
+Author: SmileyFace575 <77769395+SmileyFace575@users.noreply.github.com>
+Date:   Sun Apr 9 02:04:38 2023 +0200
+
+    ix wrong condition in filterOddNumbers.
+
+commit e44088d63493805c70833ad65cb971c32772c63d
+Merge: 6c6faf8 f1ab865
+Author: SmileyFace575 <77769395+SmileyFace575@users.noreply.github.com>
+Date:   Sun Apr 9 02:01:33 2023 +0200
+
+    Fix wrong loop for reading.
+
+commit 63448db08985baed8f4afa413fff62820ac72cc3 (origin/bug3)
+Author: SmileyFace575 <77769395+SmileyFace575@users.noreply.github.com>
+Date:   Sun Apr 9 01:47:01 2023 +0200
+
+    Fix method sumEvenNumbers.
+
+commit f1ab8658bb1d755b63df56dbcdbe72eb179ab7e7 (origin/bug2, bug2)
+Author: SmileyFace575 <77769395+SmileyFace575@users.noreply.github.com>
+Date:   Sun Apr 9 01:45:38 2023 +0200
+
+    Fix wrong condition in filterOddNumbers.
+
+commit 6c6faf8245b61a40dfeaf3623ab473b42dbc185e (origin/bug1, bug1)
+Author: SmileyFace575 <77769395+SmileyFace575@users.noreply.github.com>
+Date:   Sun Apr 9 01:42:46 2023 +0200
+
+    Fix wrong loop for reading.
+
+commit d5e368cd7f4acf8355c04ee54cb7e558c0eb5e9d
+Author: SmileyFace575 <77769395+SmileyFace575@users.noreply.github.com>
+Date:   Sun Apr 9 01:31:55 2023 +0200
+
+    Add java class
+
+commit 3c05c618c87b29b98ad096c1f864db59e770889b
+Author: SmileyFace575 <77769395+SmileyFace575@users.noreply.github.com>
+Date:   Sun Apr 9 01:28:01 2023 +0200
+
+    Initial commit
+(END)
+
